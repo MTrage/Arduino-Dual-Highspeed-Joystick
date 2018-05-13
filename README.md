@@ -4,14 +4,11 @@ This little code shows you how easy you can use a Pro Micro as a Dual Highspeed 
 Freely usable for all with the exception of military and other anti-social activities.
 Created 5.5.2018 by Marc-André Tragé
   
-### Pinout for Arduino Pro Micro
-  Pinout for Arduino Pro Micro
-  
-  DISPALY Binding
-  GND = GND
-  5V  = 5V  (VCC)
-  SDA = 2   (SDA)
-  SCK = 3   (SCL)
+### Pinout for Arduino Pro Micro & DISPALY Binding
++ GND = GND
++ 5V  = 5V  (VCC)
++ SDA = 2   (SDA)
++ SCK = 3   (SCL)
   
 ![](https://github.com/MTrage/Arduino-Dual-Highspeed-Joystick/blob/master/Dual-Joystick-Preview.jpg)
    
